@@ -1,12 +1,6 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Asteroids Game
+PURPOSE OF PROJECT: Entertainment
+VERSION or DATE: Made in 2019
+HOW TO START THIS PROJECT: Run AsteroidsGame
+AUTHORS: Gabriel Yap
+USER INSTRUCTIONS: WASD for movement. Q to shoot bullets. R to teleport at a random location. Use bullets to eliminate all asteroids.
